@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  border: solid darkgrey 1px;
+  margin: auto;
+  width: 482px;
+}
+
+@media (min-width:768px) {
+  
+  html {
+    margin: auto;
+    width: 962px;
+    border: solid darkgrey 1px;
+  }
+
+}
