@@ -1,0 +1,90 @@
+header {
+  border: darkgrey 1px solid;
+  background-color: lightseagreen;
+}
+
+aside, div {
+  border: darkgrey 1px solid;
+  background-color: lightgoldenrodyellow;
+}
+
+#b {
+  border: darkgrey 1px solid;
+  background-color: lightpink;
+}
+
+#c {
+  border: darkgrey 1px solid;
+  background-color: lightskyblue;
+}
+
+#d {
+  border: darkgrey 1px solid;
+  background-color: lightsalmon;
+}
+
+#e {
+  border: darkgrey 1px solid;
+  background-color: brown;
+}
+
+#f {
+  border: darkgrey 1px solid;
+  background-color: rebeccapurple;
+}
+
+#g {
+  border: darkgrey 1px solid;
+  background-color: pink;
+}
+
+#h {
+  border: darkgrey 1px solid;
+  background-color: royalblue;
+}
+
+
+footer {
+  border: darkgrey 1px solid;
+  background-color: lightsteelblue;
+}
+
+
+@media (min-width:768px) {
+  
+  header {
+    background-color: lightsteelblue;
+  }
+
+  aside {
+    background-color: lightsalmon;
+  }
+
+  #c {
+    background-color: lightgoldenrodyellow;
+  }
+
+  #d {
+    background-color: lightgreen;
+  }
+
+  #e {
+    background-color: lightgray;
+  }
+
+  #f {
+    background-color: lightpink;
+  }
+
+  #g {
+    background-color: lightskyblue;
+  }
+
+  #h {
+    background-color: rebeccapurple;
+  }
+  
+  footer {
+    background-color: burlywood;
+  }
+}
